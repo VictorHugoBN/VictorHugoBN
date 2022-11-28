@@ -121,6 +121,5 @@ Here are some ideas to get you started:
   <div align="center">
     <hr />
 
-    ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=VictorHugoBN&hide=contribs,prs&theme=tokyonight&show_icons=true)
-  </div>
+![Victor's github stats](https://github-readme-stats.vercel.app/api?username=VictorHugoBN&hide=contribs,prs&theme=tokyonight&show_icons=true)  </div>
 </div>
