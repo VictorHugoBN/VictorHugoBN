@@ -16,6 +16,8 @@
 
 - 🌱 I am improving my knowledge in: **SQL, Python and Flask**
 
+- 🖱️ Main experience: ReactJS, React Native, NodeJS, Flask
+
 - 📫 How to reach me: 
 
 [![Gmail Badge](https://img.shields.io/badge/-hugobn.victor@gmail.com-fc0b03?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hugobn.victor@gmail.com)](mailto:hugobn.victor@gmail.com)
