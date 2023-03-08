@@ -8,7 +8,7 @@
 
 ### About Me 
 
-#### I'm a passionate software engineer with a strong background in web development. I have experience working on a wide variety of projects, ranging from small-scale websites to large-scale enterprise applications. I'm comfortable working with both front-end and back-end technologies, and I enjoy tackling complex challenges that require creative problem-solving.
+#### Experienced Software Engineer with expertise in ReactJS and Python | Node.js for developing dynamic and scalable applications. Skilled in both front-end and back-end development, with a deep understanding of design patterns like Flux and MVC. Proficient in creating responsive and user-friendly interfaces using the React ecosystem. Knowledgeable in Python and Node.js frameworks like Django, Flask, Express, and Nest.js, and experienced in developing efficient and secure RESTful APIs and web applications. Able to work with SQL and NoSQL databases and integrate external APIs for end-to-end solutions. Proven track record of delivering high-quality, maintainable code for projects of various sizes. Passionate about staying up-to-date with the latest technology trends and continuously honing skills for delivering better solutions. Open to discussing potential collaboration opportunities.
 
 
 
