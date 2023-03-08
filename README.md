@@ -1,22 +1,18 @@
 <!--
 **VictorHugoBN/VictorHugoBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-# Victor Hugo Barros Nascimento
+# Victor Nascimento
 
-### Enthusiast in software development, focusing on web development with ReactJS. Always using the best programming practices, I try to keep myself updated on React technologies and ecosystem in general, looking for constant evolution in the development area. 
+## Hello, and welcome to my GitHub Profile! 
 
-- 🔭 I’m currently working on:
+### About Me 
+
+#### I'm a passionate software engineer with a strong background in web development. I have experience working on a wide variety of projects, ranging from small-scale websites to large-scale enterprise applications. I'm comfortable working with both front-end and back-end technologies, and I enjoy tackling complex challenges that require creative problem-solving.
+
+
+
+- 🔭 I’m currently working on: Atlas Health Projects
 
 - 🌱 I am improving my knowledge in: **SQL, Python and Flask**
 
