@@ -119,4 +119,5 @@
   <div align="center">
     <hr />
 
-![Victor's github stats](https://github-readme-stats.vercel.app/api?username=VictorHugoBN&hide=contribs,issues,prs&theme=tokyonight&show_icons=true&count_private=true) </div>
+<!-- ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=VictorHugoBN&hide=contribs,issues,prs&theme=tokyonight&show_icons=true&count_private=true) </div> -->
+
