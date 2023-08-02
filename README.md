@@ -1,123 +1,33 @@
-<!--
-**VictorHugoBN/VictorHugoBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, welcome to my GitHub Profile! I'm Victor Nascimento 👋
 
--->
-# Victor Nascimento
+![Profile Views](https://komarev.com/ghpvc/?username=VictorHugoBN&color=blueviolet)
 
-## Hello, and welcome to my GitHub Profile! 
+I'm an experienced Software Engineer specialized in ReactJS and Python, using Node.js for developing dynamic and scalable applications. My skills cover both front-end and back-end development, and I have a comprehensive understanding of design patterns like Flux and MVC.
 
-### About Me 
-
-#### Experienced Software Engineer with expertise in ReactJS and Python | Node.js for developing dynamic and scalable applications. Skilled in both front-end and back-end development, with a deep understanding of design patterns like Flux and MVC. Proficient in creating responsive and user-friendly interfaces using the React ecosystem. Knowledgeable in Python and Node.js frameworks like Django, Flask, Express, and Nest.js, and experienced in developing efficient and secure RESTful APIs and web applications. Able to work with SQL and NoSQL databases and integrate external APIs for end-to-end solutions. Proven track record of delivering high-quality, maintainable code for projects of various sizes. Passionate about staying up-to-date with the latest technology trends and continuously honing skills for delivering better solutions. Open to discussing potential collaboration opportunities.
-
-
+## Current Endeavors 
 
 - 🔭 I’m currently working on: Atlas Health Projects
+- 🌱 I am honing my skills in: **SQL, Python and Flask**
+- 🖱️ Main expertise: React and Flask
 
-- 🌱 I am improving my knowledge in: **SQL, Python and Flask**
+## Contact Me 
 
-- 🖱️ Main experience: ReactJS, React Native, NodeJS, Flask
-
-- 📫 How to reach me: 
-
+Reach me through:
 [![Gmail Badge](https://img.shields.io/badge/-hugobn.victor@gmail.com-fc0b03?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hugobn.victor@gmail.com)](mailto:hugobn.victor@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-victor-nascimento/)
 
+## Technologies I Use
 
-<h3>Repos I like most:</h3>
-<div style="display: inline_block">
-  <br />
-  <a href="https://github.com/VictorHugoBN/testepraticowiid">
-    <img
-      align="center"
-      src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VictorHugoBN&repo=testepraticowiid&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
-    /> </a
-  ><a href="https://github.com/VictorHugoBN/CodeNEWS">
-    <img
-      align="center"
-      src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VictorHugoBN&repo=CodeNEWS&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
-    />
-  </a>
-  <a href="https://github.com/VictorHugoBN/frontend-proffy">
-    <img
-      align="center"
-      src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VictorHugoBN&repo=frontend-proffy&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
-    />
-  </a>
-  <a href="https://github.com/VictorHugoBN/server-proffy">
-    <img
-      align="center"
-      src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VictorHugoBN&repo=server-proffy&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
-    /> </a
-  ><a href="https://github.com/VictorHugoBN/mobile-proffy">
-    <img
-      align="center"
-      src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VictorHugoBN&repo=mobile-proffy&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
-    />
-  </a>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 
-  <div style="display: inline_block">
-    <br />
-    <img
-      align="center"
-      alt="Js"
-      height="30"
-      width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-    />
-    <img
-      align="center"
-      alt="Ts"
-      height="30"
-      width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-    />
-    <img
-      align="center"
-      alt="React"
-      height="30"
-      width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-    />
-    <img
-      align="center"
-      alt="Node"
-      height="30"
-      width="40"
-      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
-    />
-    <img
-      align="center"
-      alt="Mongo"
-      height="30"
-      width="40"
-      src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
-    />
-    <img
-      align="center"
-      alt="Postgres"
-      height="30"
-      width="40"
-      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
-    />
-    <img
-      align="center"
-      alt="Redis"
-      height="30"
-      width="40"
-      src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"
-    />
-    <img
-      align="center"
-      alt="Python"
-      height="30"
-      width="40"
-      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-    />
-  </div>
+## Streak Stats
 
-  <div align="center">
-    <hr />
-
-<!-- ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=VictorHugoBN&hide=contribs,issues,prs&theme=tokyonight&show_icons=true&count_private=true) </div> -->
+![Victor's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=VictorHugoBN&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=5391FE&fire=BE91F2&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=58A6FF)
 
