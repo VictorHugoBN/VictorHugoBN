@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VictorHugoBN&color=blueviolet)
 
-I'm an experienced Software Engineer specialized in ReactJS and Python, using Node.js for developing dynamic and scalable applications. My skills cover both front-end and back-end development, and I have a comprehensive understanding of design patterns like Flux and MVC.
+I'm an experienced Software Engineer specialized in ReactJS and Python. My skills cover both front-end and back-end development.
 
 ## Current Endeavors 
 
