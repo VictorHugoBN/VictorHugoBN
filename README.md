@@ -6,7 +6,6 @@ I'm an experienced Software Engineer specialized in ReactJS and Python. My skill
 
 ## Current Endeavors 
 
-- 🔭 I’m currently working on: Atlas Health Projects
 - 🌱 I am honing my skills in: **SQL, Python and Flask**
 - 🖱️ Main expertise: React and Flask
 
